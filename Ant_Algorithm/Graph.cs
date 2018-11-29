@@ -30,8 +30,8 @@ namespace Ant_Algorithm
             File.ReadAllLines(inputFile).ToList().ForEach(z =>
             {
                 var data = z.Split(' ');
-                if (this[data[0]] == null) Nodes.Add(new Node() { Name = data[0] });
-                if (this[data[2]] == null) Nodes.Add(new Node() { Name = data[2] });
+                if (this[data[0]] == null) Nodes.Add(new Node { Name = data[0] });
+                if (this[data[2]] == null) Nodes.Add(new Node { Name = data[2] });
 
                 var transition = new Transition(Convert.ToInt32(data[1]));
 

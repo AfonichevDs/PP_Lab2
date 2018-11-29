@@ -8,7 +8,7 @@ namespace Ant_Algorithm
     {
         static void Main(string[] args)
         {
-            Graph graph = new Graph("C:\\Test\\test.txt");
+            Graph graph = new Graph("C:\\Univ\\PP\\test.txt");
             bool allCitiesReached = false;
 
             double bestWayValue = Const.initialMaxValue;
@@ -40,6 +40,12 @@ namespace Ant_Algorithm
                     if (graph.Ants.Count == 0) break;
                 }
             }
+
+            var trToStart = graph.Nodes.FirstOrDefault(z => z.Name == bestWay[bestWay.Count - 1].Name).Neighbours.FirstOrDefault(z => z.Key == bestWay[0]);
+
+            bestWay.Add(trToStart.Key);
+            bestWayValue += trToStart.Value.Value;
+
             Console.ForegroundColor = ConsoleColor.Gray;
             if (allCitiesReached)
                 Console.WriteLine("Best way value: {0}", bestWayValue);

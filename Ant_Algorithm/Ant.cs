@@ -71,7 +71,7 @@ namespace Ant_Algorithm
         private double CalculateChoice(Transition t)
         {
             return (Math.Pow(Math.Floor(t.Pheromone), Const.A) * Math.Pow(t.Visibility, Const.B)) /
-                CurrentNode.Neighbours.Where(z =>!VisitedNodes.Contains(z.Key)).Sum(s => (Math.Pow(Math.Floor(s.Value.Pheromone), Const.A) * Math.Pow(s.Value.Visibility, Const.B)));
+                CurrentNode.Neighbours.Where(z => !VisitedNodes.Contains(z.Key)).Sum(s => (Math.Pow(Math.Floor(s.Value.Pheromone), Const.A) * Math.Pow(s.Value.Visibility, Const.B)));
         }
     }
 }

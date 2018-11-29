@@ -9,3 +9,14 @@ C:\Users\Afonichev\Desktop\TravelerProblem\Ant_Algorithm\bin\Debug\netcoreapp2.1
 C:\Users\Afonichev\Desktop\TravelerProblem\Ant_Algorithm\bin\Debug\netcoreapp2.1\Ant_Algorithm.pdb
 C:\Users\Afonichev\Desktop\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.dll
 C:\Users\Afonichev\Desktop\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.pdb
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\bin\Debug\netcoreapp2.1\Ant_Algorithm.deps.json
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\bin\Debug\netcoreapp2.1\Ant_Algorithm.runtimeconfig.json
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\bin\Debug\netcoreapp2.1\Ant_Algorithm.runtimeconfig.dev.json
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\bin\Debug\netcoreapp2.1\Ant_Algorithm.dll
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\bin\Debug\netcoreapp2.1\Ant_Algorithm.pdb
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.csprojAssemblyReference.cache
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.csproj.CoreCompileInputs.cache
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.AssemblyInfoInputs.cache
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.AssemblyInfo.cs
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.dll
+C:\Univ\PP\TravelerProblem\Ant_Algorithm\obj\Debug\netcoreapp2.1\Ant_Algorithm.pdb
